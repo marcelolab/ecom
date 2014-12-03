@@ -1,0 +1,5 @@
+title: Historia de GShirt
+date: 2014-12-03 02:47:41
+tags:
+---
+La historia de GShirt, inicia en el 2008...
